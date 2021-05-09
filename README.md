@@ -1,2 +1,2 @@
-# Not-A-Hacking-Group.github.io
+# nahgroup.github.io
 The GitHub Pages site for NaHG
